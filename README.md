@@ -1,4 +1,4 @@
-![Header image](images/banner.png)
+![Header image](images/theDevRichaCover.png)
 
 ’m a web developer who loves turning ideas into stunning, interactive websites. I’m all about creating websites that not only look great but also work seamlessly. I enjoy sharing my knowledge and skills with others through blogs.
 
